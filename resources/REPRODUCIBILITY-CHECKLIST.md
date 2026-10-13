@@ -1,0 +1,11 @@
+# Reproducibility checklist
+- [ ] State the research question and learning outcomes.
+- [ ] Document data source, license, dictionary, and limitations.
+- [ ] Run notebook from top to bottom in a fresh environment.
+- [ ] Control randomness where relevant.
+- [ ] Label plots clearly.
+- [ ] Avoid data leakage in predictive modelling.
+- [ ] Interpret findings cautiously and state limitations.
+- [ ] Separate student exercises from worked solutions.
+- [ ] Include a rubric and setup instructions.
+- [ ] Do not commit private or unauthorized data.
