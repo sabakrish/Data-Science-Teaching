@@ -34,5 +34,4 @@ Install Python 3.10 or later and install packages listed in `requirements.txt`. 
 ## Status and integrity
 The student-performance dataset is synthetic and intended only for practice. Several project folders are specifications for future work and are explicitly labelled as planned. Do not describe a planned project as completed until its notebook is implemented, tested, and reviewed.
 
-## Suggested CV entry (after public release)
-**Undergraduate Data Science Teaching Portfolio (GitHub)** — Independently developed undergraduate teaching resources and reproducible Python projects in exploratory data analysis, statistical modelling, machine learning, validation, time-series analysis, and scientific computing, with student exercises and assessment rubrics.
+
